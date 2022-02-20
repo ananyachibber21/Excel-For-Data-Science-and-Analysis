@@ -26,6 +26,8 @@ Power Query is a business intelligence tool available in Excel that allows you t
 
 ![Img5](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img5.PNG)
 
+### Performing functions on an excel file is known as Data Cleaning.
+
 ***Step 5-*** *Performing operationas on the Data can be performed. To remove a column from the CSV file simply select the column from the header. Right click and and Remove.*
 
 ![Img6](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img6.PNG)
@@ -37,8 +39,6 @@ Power Query is a business intelligence tool available in Excel that allows you t
 *Choose a separator. It could be anything you need to use as a delimiter for separation between the two column. In case of a certain separator not available select "custom" from the drop down menu and choose the selector of your choice. Select the "New Column name" and press OK.*
 
 ![Img8](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img8.PNG)
-
-### Performing functions on an excel file is known as Data Cleaning.
 
 *The two merged columns appears to be something like this.*
 
