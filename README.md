@@ -64,3 +64,14 @@ Power Query is a business intelligence tool available in Excel that allows you t
 
 ![Img14](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img14.PNG)
 
+## Formulas 
+
+Apart from using Power Queries, there are wide range of formulas to perform operations in the data of the Excel File. Just navigate to the Formulas and click "Insert Function".
+
+![Img15](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img15.jpg)
+
+1. CONCATENATE
+*Combine the values of several cells into one
+*Formula: Combine the values of several cells into one
+
+![Img16](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img16.jpg)
