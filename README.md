@@ -75,3 +75,67 @@ Apart from using Power Queries, there are wide range of formulas to perform oper
 <br>Formula: Combine the values of several cells into one.
 
 ![Img16](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img16.jpg)
+
+2. VLOOKUP
+<br>The formula allows you to look up data that is arranged in vertical columns.
+<br>Formula: =VLOOKUP(LOOKUP_VALUE,TABLE_ARRAY, COL_INDEX_NUM, [RANGE_LOOKUP])
+
+![Img17](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img17.jpg)
+
+3. LEN
+<br>To get the number of characters in a given cell.
+<br>Formula: =LEN(SELECT CELL)
+
+![Img18](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img18.jpg)
+
+4. SUMIF
+<br>It adds up the values in cells which meet a selected number.
+<br>Formula: =SUMIF(RANGE,CRITERIA,[sum_range])
+
+![Img19](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img19.jpg)
+
+5. DAYS/NETWORKDAYS
+<br>To determine the number of days between two calendar dates.
+<br>Formula: =NETWORKDAYS(SELECT CELL, SELECT CELL,[numberofholidays])
+
+![Img20](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img20.jpg)
+
+<br>Formula: =NETWORKDAYS(SELECT CELL, SELECT CELL,[numberofholidays])
+
+![Img21](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img21.jpg)
+
+6. SUBSTITUTE
+<br>Replacing cells in bulks 
+<br>Formula: =SUBSTITUTE(A1,"p","s")
+
+![Img22](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img22.jpg)
+
+7. MINIF/MAXIF
+<br>Minimum of a set of values, and match on criteria.
+<br>Formula: =MIN(IF(RANGE1,CRITERIA1,RANGE2))
+
+![Img23](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img23.jpg)
+
+<br>Maximum of a set of values, and match on criteria.
+<br>Formula: =MAX(IF(RANGE1,CRITERIA1,RANGE2))
+
+![Img24](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img24.jpg)
+
+8. COUNTIFS
+<br>Counts the numbers how many times a value appears based on one criteria.
+<br>Formula: =COUNTIFS(RANGE,CRITERIA)
+
+![Img25](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img25.jpg)
+
+9. LEFT/RIGHT
+<br>will return the “x” number of characters from the beginning of the cell.
+<br>Formula: =LEFT(SELECT CELL,NUMBER)
+
+![Img26](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img26.jpg)
+
+<br>will return the “x” number of characters from the end of the cell.
+<br>Formula: =RIGHT(SELECT CELL,NUMBER)
+
+![Img27](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img27.jpg)
+
+
