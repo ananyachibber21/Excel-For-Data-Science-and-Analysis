@@ -71,7 +71,7 @@ Apart from using Power Queries, there are wide range of formulas to perform oper
 ![Img15](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img15.jpg)
 
 1. CONCATENATE
-*Combine the values of several cells into one
-*Formula: Combine the values of several cells into one
+<br \>Combine the values of several cells into one
+<br \>Formula: Combine the values of several cells into one.
 
 ![Img16](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img16.jpg)
