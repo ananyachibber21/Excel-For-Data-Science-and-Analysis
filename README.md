@@ -138,4 +138,36 @@ Apart from using Power Queries, there are wide range of formulas to perform oper
 
 ![Img27](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img27.jpg)
 
+## Pivot Tables
 
+### Creating Pivot Table
+
+Select the table or the rows and columns. Go to the insert tab and click on the PivotTable. 
+
+![Img28](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img28.jpg)
+
+The range of the table is selected. Now choose a new worksheet or the existing worksheet to work with the Pivot Tables. Press OK.
+
+![Img29](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img29.jpg)
+
+The extreme right section of the new worksheet created contains all the column names of the table. On the buttom are four fields for the formatting of the Pivot Table according to your choice.
+
+![Img30](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img30.jpg)
+
+Dragging UnitCost to the VALUES section will give the sum of the total unit costs present in the table.
+
+![Img31](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img31.jpg)
+
+Dragging the items to the ROWS with show all the items in a row. Choosing both items to the rows and UnitCost to the VALUES with show the items in a row along with sum of the total of the each item and the grand total.
+
+![Img32](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img32.jpg)
+
+The Pivot Table for the 5 fields appears to be like this.
+
+![Img33](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img33.jpg)
+
+A chart of this new worksheet can be formed. Go to the insert tab and click on Recommended Charts. Choose the type of chart you want to form. 
+
+![Img44](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img34.jpg)
+
+![Img45](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img35.jpg)
