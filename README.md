@@ -168,6 +168,22 @@ The Pivot Table for the 5 fields appears to be like this.
 
 A chart of this new worksheet can be formed. Go to the insert tab and click on Recommended Charts. Choose the type of chart you want to form. 
 
-![Img44](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img34.jpg)
+![Img34](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img34.jpg)
 
-![Img45](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img35.jpg)
+![Img35](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img35.jpg)
+
+A filter can also be chosen by picking and dropping the fields to the filter section.
+
+![Img36](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img36.jpg)
+
+![Img37](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img37.jpg)
+
+Sorting of the column can be done by selecting the particular column to be sorted. Right click and sort.
+
+![Img38](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img38.jpg)
+
+Pivot table can also be created by some specific and selected values instead of the entire table.
+
+![Img39](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img39.jpg)
+
+![Img40](https://github.com/ananyachibber21/Excel-For-Data-Science-and-Analysis/blob/main/Screenshots/Img40.jpg)
